@@ -2,7 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:10
 #EXT-X-PLAYLIST-TYPE:VOD
-#EXT-X-CUE-OUT:20,_fw_params="ptgt=a&slid=pre&tpcl=preroll"
+#EXT-X-CUE-OUT:20,_fw_params="ptgt=a&slid=pre&tpcl=midroll"
 #EXT-X-CUE-IN
 #EXTINF:10,
 http://m1.fwmrm.net/g/hls/200k/200k-0001.ts
