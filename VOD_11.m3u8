@@ -21,6 +21,7 @@ http://m1.fwmrm.net/g/hls/200k/200k-0005.ts
 http://m1.fwmrm.net/g/hls/200k/200k-0006.ts
 #EXTINF:10,
 http://m1.fwmrm.net/g/hls/200k/200k-0007.ts
+#EXT-X-CUE-OUT-CONT:
 #EXTINF:10,
 http://m1.fwmrm.net/g/hls/00k/200k-0008.ts
 #EXT-X-CUE-OUT:20,_fw_params="ptgt=a&slid=mid1&tpcl=midroll&maxd=30"
