@@ -36,8 +36,6 @@ http://m1.fwmrm.net/g/hls/200k/200k-0012.ts
 http://m1.fwmrm.net/g/hls/200k/200k-0013.ts
 #EXTINF:10,
 http://m1.fwmrm.net/g/hls/200k/200k-0014.ts
-#EXTINF:10,
-http://m1.fwmrm.net/g/hls/200k/200k-0015.ts
 #EXT-X-CUE-OUT:20,_fw_params="ptgt=a&slid=post&tpcl=postroll"
 #EXT-X-CUE-IN
 #EXT-X-ENDLIST
