@@ -7,8 +7,10 @@ http://192.168.0.205:8000/test-0002.ts
 #EXT-X-CUE-OUT:15
 #EXTINF:5,
 http://192.168.0.205:8000/test-0003.ts
-#EXTINF:8,
+#EXTINF:5,
 http://192.168.0.205:8000/test-0004.ts
+#EXTINF:3,
+http://192.168.0.205:8000/test-0005.ts
 #EXT-X-CUE-IN
 #EXTINF:8,
-http://192.168.0.205:8000/test-0005.ts
+http://192.168.0.205:8000/test-0006.ts
