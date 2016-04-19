@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=1280000,AVERAGE-BANDWIDTH=1000000
-http://video2.fw.btn2go.com/fs/mobile/video/nlds/btn2go/btn4/as/live/btn4_hd_240.m3u8
+https://github.com/soarHero/Playlist/blob/master/VOD_11.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2560000,AVERAGE-BANDWIDTH=2000000
 https://github.com/soarHero/Playlist/blob/master/VOD_11.m3u8?someAuthToken=somehash&ip=127.0.0.1
 #EXT-X-STREAM-INF:BANDWIDTH=7680000,AVERAGE-BANDWIDTH=6000000
